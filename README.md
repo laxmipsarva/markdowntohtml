@@ -1,4 +1,4 @@
-# markdowntohtml
+# Markdown to HTML
 
 # Install
 
